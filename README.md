@@ -1,1 +1,1 @@
-Obsolete repository, please refer [to this one](https://github.com/legalstart/formulas) instead.
+Obsolete repository, please refer [to this fork](https://github.com/legalstart/formulas) instead.
